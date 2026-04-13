@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/xueying/proprietary/odm/etc/acdbdata/FTM/workspaceFileXml.qwsp:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/FTM/workspaceFileXml.qwsp \
     vendor/oneplus/xueying/proprietary/odm/etc/acdbdata/acdb_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/acdb_cal.acdb \
     vendor/oneplus/xueying/proprietary/odm/etc/camera/AiFace.json:$(TARGET_COPY_OUT_ODM)/etc/camera/AiFace.json \
-    vendor/oneplus/xueying/proprietary/odm/etc/camera/CameraHWConfiguration.config:$(TARGET_COPY_OUT_ODM)/etc/camera/CameraHWConfiguration.config \
     vendor/oneplus/xueying/proprietary/odm/etc/camera/FaceRestoreConfig.json:$(TARGET_COPY_OUT_ODM)/etc/camera/FaceRestoreConfig.json \
     vendor/oneplus/xueying/proprietary/odm/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode:$(TARGET_COPY_OUT_ODM)/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode \
     vendor/oneplus/xueying/proprietary/odm/etc/camera/aiboost_qnn_htp2.2.0_2468630351544828688.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/aiboost_qnn_htp2.2.0_2468630351544828688.bin \
